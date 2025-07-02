@@ -2116,6 +2116,7 @@ AC_CONFIG_FILES([Makefile
 		src/mod/applications/mod_fsk/Makefile
 		src/mod/applications/mod_fsv/Makefile
 		src/mod/applications/mod_hash/Makefile
+    src/mod/applications/mod_parlez/Makefile
 		src/mod/applications/mod_hiredis/Makefile
 		src/mod/applications/mod_httapi/Makefile
 		src/mod/applications/mod_http_cache/Makefile
